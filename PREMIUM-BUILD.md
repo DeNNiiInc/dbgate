@@ -76,6 +76,12 @@ You can copy this entire `win-unpacked` folder anywhere and run it without insta
 
 ## 🐳 Option 2: Run as Web App with Docker
 
+> ⚠️ **IMPORTANT: Official Docker Hub is NOT Premium!**
+> 
+> The official image `dbgate/dbgate` on Docker Hub does **NOT** have premium features.
+> You must **build your own image** from this repository to get premium features.
+> Do NOT use `docker pull dbgate/dbgate` - it won't have the unlocked features!
+
 ### Step 1: Clone and Build Docker Image
 
 ```bash
