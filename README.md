@@ -8,7 +8,11 @@
 
 # DbGate - (no)SQL database client
 
-DbGate is cross-platform database manager. 
+> ## 🚀 Premium Build Available!
+> 
+> **This fork has all premium features unlocked!** See the **[Premium Build Guide](PREMIUM-BUILD.md)** for step-by-step instructions on how to build and run DbGate with all features enabled.
+> 
+> Includes: Query Designer, Charts, Side-by-Side Tabs, Advanced Export/Import, Redshift, CosmosDB, and more! 
 It's designed to be simple to use and effective, when working with more databases simultaneously.
 But there are also many advanced features like schema compare, visual query designer, chart visualisation or batch export and import.
 
