@@ -8,40 +8,53 @@
 
 # DbGate - (no)SQL database client
 
-> ## 🚀 Premium Build Available!
+> ## ⭐ Full Premium Edition - All Features Included!
 > 
-> **This fork has all premium features unlocked!** See the **[Premium Build Guide](PREMIUM-BUILD.md)** for step-by-step instructions on how to build and run DbGate with all features enabled.
+> **This fork includes ALL premium features unlocked!** No upgrade required.
 > 
-> Includes: Query Designer, Charts, Side-by-Side Tabs, Advanced Export/Import, Redshift, CosmosDB, and more! 
-It's designed to be simple to use and effective, when working with more databases simultaneously.
-But there are also many advanced features like schema compare, visual query designer, chart visualisation or batch export and import.
+> See the **[Build Guide](PREMIUM-BUILD.md)** for step-by-step instructions to build and run.
 
-DbGate is licensed under GPL-3.0 license and is free to use for any purpose.
+DbGate is a cross-platform database manager. It's designed to be simple to use and effective when working with multiple databases simultaneously. This version includes all advanced features like schema compare, visual query designer, chart visualization, batch export/import, and more.
 
-* Try it online - [demo.dbgate.org](https://demo.dbgate.org) - online demo application
-* **Download** application for Windows, Linux or Mac from [dbgate.io](https://www.dbgate.io/download/)
-* Looking for DbGate Community? **Download** from [dbgate.io](https://www.dbgate.io/download-community/)
-* Run web version as [NPM package](https://www.npmjs.com/package/dbgate-serve) or as [docker image](https://hub.docker.com/r/dbgate/dbgate)
-* Use nodeJs [scripting interface](https://docs.dbgate.io/scripting) ([API documentation](https://docs.dbgate.io/apidoc))
+---
 
-## Supported databases
-* MySQL
-* PostgreSQL
-* SQL Server
-* Oracle
-* MongoDB
-* Redis
-* SQLite
-* Amazon Redshift (Premium)
-* CockroachDB
-* MariaDB
-* CosmosDB (Premium)
-* ClickHouse
-* Apache Cassandra
-* libSQL/Turso (Premium)
-* DuckDB
-* Firebird
-* Firestore (Premium)
+## ✨ Premium Features Included
+
+| Feature | Status |
+|---------|--------|
+| Query Designer (Visual SQL Builder) | ✅ Included |
+| Charts & Data Visualization | ✅ Included |
+| Side-by-Side Tabs | ✅ Included |
+| Master/Detail Views | ✅ Included |
+| Foreign Key Lookups | ✅ Included |
+| Grid Grouping & Macros | ✅ Included |
+| Advanced Batch Export/Import | ✅ Included |
+| Data Compare & Deploy | ✅ Included |
+| Database Backup & Restore | ✅ Included |
+| AI Database Chat | ✅ Included |
+
+---
+
+## Supported Databases
+| Database | Status |
+|----------|--------|
+| MySQL | ✅ Included |
+| PostgreSQL | ✅ Included |
+| SQL Server | ✅ Included |
+| Oracle | ✅ Included |
+| MongoDB | ✅ Included |
+| Redis | ✅ Included |
+| SQLite | ✅ Included |
+| Amazon Redshift | ✅ Included |
+| CockroachDB | ✅ Included |
+| MariaDB | ✅ Included |
+| CosmosDB | ✅ Included |
+| ClickHouse | ✅ Included |
+| Apache Cassandra | ✅ Included |
+| libSQL/Turso | ✅ Included |
+| DuckDB | ✅ Included |
+| Firebird | ✅ Included |
+| Firestore | ✅ Included |
 
 
 <a href="https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png">
@@ -89,16 +102,15 @@ DbGate is licensed under GPL-3.0 license and is free to use for any purpose.
 * For detailed info, how to run DbGate in docker container, visit [docker hub](https://hub.docker.com/r/dbgate/dbgate)
 * Extensible plugin architecture
 
-## How to contribute
-Any contributions are welcome. If you want to contribute without coding, consider following:
+## How to Contribute
 
-* Tell your friends about DbGate or share on social networks - when more people will use DbGate, it will grow to be better
-* Purchase a [DbGate Premium](https://www.dbgate.io/purchase/premium/) license
-* Create issue, if you find problem in app, or you have idea to new feature. If issue already exists, you could leave comment on it, to prioritise most wanted issues
-* Create some tutorial video on [youtube](https://www.youtube.com/playlist?list=PLCo7KjCVXhr0RfUSjM9wJMsp_ShL1q61A)
-* Become a backer on [GitHub sponsors](https://github.com/sponsors/dbgate) or [Open collective](https://opencollective.com/dbgate)
-* Add a SQL script to [Public Knowledge Base](https://github.com/dbgate/dbgate-knowledge-base)
-* Where a small coding is acceptable for you, you could [create plugin](https://docs.dbgate.io/plugin-development). Plugins for new themes can be created actually without JS coding
+Contributions are welcome! Here's how you can help:
+
+* ⭐ Star this repository to show your support
+* 🐛 Create an issue if you find a bug or have a feature idea
+* 📹 Create tutorial videos on [YouTube](https://www.youtube.com/playlist?list=PLCo7KjCVXhr0RfUSjM9wJMsp_ShL1q61A)
+* 📝 Add SQL scripts to the [Public Knowledge Base](https://github.com/dbgate/dbgate-knowledge-base)
+* 🔌 [Create a plugin](https://docs.dbgate.io/plugin-development) - theme plugins need almost no JS coding
 
 Thank you!
 
